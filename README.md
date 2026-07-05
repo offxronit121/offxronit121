@@ -12,7 +12,7 @@ gaurav@bhopal:~$ cat about_me.txt
 
 ```yaml
 Name:        Gaurav
-Role:        B.Tech CSE Student (2028) @ BIRT, Bhopal
+Role:        B.Tech CSE Student (2027) @ BIRTS, Bhopal
 Also:        Google Student Ambassador (GSA)
 Currently:   Building EV-tech, AI tools & full-stack apps
 Focus:       DSA -> Interview Prep -> Google SDE (Summer 2027 Internship goal)
